@@ -1,2 +1,3 @@
 # Intro
-This repository is a collection of my introductory projects, coding exercises, and some fun side projects. It's an overview of my journey in the tech world
+Welcome! I'm Soumabha Ghosh, a passionate developer and tech enthusiast. This repository serves as an introduction to my work, skills, and projects.
+
